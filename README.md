@@ -28,9 +28,12 @@ Sample images from each class were visually inspected to assess image quality an
 ![image](https://github.com/user-attachments/assets/622cb13e-8803-45ca-8213-cb8d306c0e4b)
 
 After performing EDA as outlined in the previous steps. The key findings are:
-**1.	Class Distribution:** The dataset is imbalanced, with certain classes having more images than others.
-**2.	Image Quality:** The images vary in resolution and quality.
-**3.	Anomalies:** Some images have significantly different resolutions.
+
+- **Class Distribution:** The dataset is imbalanced, with certain classes having more images than others.
+
+-  **Image Quality:** The images vary in resolution and quality.
+
+-  **Anomalies:** Some images have significantly different resolutions.
 
 ### 4. Data Preprocessing
 
@@ -66,7 +69,7 @@ Detailed classification reports were generated for the model, showing the precis
 ![image](https://github.com/user-attachments/assets/4199dbe0-ac11-4aaf-983b-2c1c0d6a6c84)
 
 #### 7.3 ROC Curve and AUC
-The ROC curve and AUC for each model indicated that InceptionNet and EfficientNet variants performed the best in distinguishing between the different classes of cassava leaf diseases.
+Additionally, the Receiver Operating Characteristic (ROC) curve and Area Under the Curve (AUC) were plotted for each model to assess their performance.
 
 ![image](https://github.com/user-attachments/assets/a2145451-1249-4852-a3b9-91459bf794cf)
 
