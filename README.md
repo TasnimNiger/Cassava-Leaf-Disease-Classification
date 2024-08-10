@@ -1,6 +1,6 @@
 # Cassava-Leaf-Disease-Classification
 ### 1. Introduction
-Cassava is a staple food crop in many tropical regions, and its health is critical for food security. Cassava plants can suffer from various diseases that affect their leaves, leading to reduced yields. This project aims to classify cassava leaves into different disease categories or identify them as healthy using deep learning models. I employed the deep learning model Convolutional Neural Networks (CNN)); if computational resources are limited, we can consider MobileNetV2, ResNet50, VGG16, EfficientNetB0/B1/B2, and InceptionNet pre-trained model.
+Cassava is a staple food crop in many tropical regions, and its health is critical for food security. Cassava plants can suffer from various diseases that affect their leaves, leading to reduced yields. This project aims to classify cassava leaves into different disease categories or identify them as healthy using deep learning models. I employed the deep learning model Convolutional Neural Networks (CNN); if computational resources are limited, we can consider MobileNetV2, ResNet50, VGG16, EfficientNetB0/B1/B2, and InceptionNet pre-trained model.
 
 ### 2. Dataset
 The dataset used for this project is the Cassava Leaf Disease Classification dataset from Kaggle. It consists of images of cassava leaves categorized into five classes:
